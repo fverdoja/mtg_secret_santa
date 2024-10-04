@@ -1,0 +1,69 @@
+participants:
+  - Person1
+  - Person2
+  - Person3
+  - Person4
+
+color_combinations:
+  - Mono-white (W)
+  - Mono-blue (U)
+  - Mono-black (B)
+  - Mono-red (R)
+  - Mono-green (G)
+  - Azorius (WU)
+  - Dimir (UB)
+  - Rakdos (BR)
+  - Gruul (RG)
+  - Selesnya (GW)
+  - Orzhov (WB)
+  - Izzet (UR)
+  - Golgari (BG)
+  - Boros (WR)
+  - Simic (UG)
+  - Esper (WUB)
+  - Grixis (UBR)
+  - Jund (BRG)
+  - Naya (RGW)
+  - Bant (GWU)
+  - Abzan (WBG)
+  - Jeskai (URW)
+  - Sultai (BGU)
+  - Mardu (BRW)
+  - Temur (RGU)
+
+deck_archetypes:
+  - Artifacts
+  - Lifegain
+  - (+1/+1) Counters
+  - Equipment
+  - Aristocrats
+  - Spellslinger
+  - Auras
+  - Sacrifice
+  - Lands / Landfall
+  - Mill / Selfmill
+  - Enchantments
+  - Stay alive (e.g. Pillowfort, walls)
+  - Removal / Wrath
+  - Big Mana
+  - Blink / Bounce
+  - Vehicles
+  - Discard (e.g. Cycling, Madness,)
+  - Graveyard
+  - Flying
+  - Reanimator
+  - Monarch / Politics
+  - Energy
+  - Morph/Facedown
+  - Play from exile
+  - Stompy / Combat
+  - Hatebears
+  - Voltron / Commander matters
+  - Storm
+  - Card Draw
+  - Flash / Instant speed
+  - Tokens / Go wide
+  - Devotion
+  - Ramp
+  - Anthems / Increase stats
+  - Tribal
